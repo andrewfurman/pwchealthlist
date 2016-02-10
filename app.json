@@ -1,0 +1,14 @@
+{
+  "name": "PwC Health App List",
+  "description": "List of PwC Health Topics",
+  "keywords": [
+    "PwC",
+    "Health",
+    "Advisory"
+  ],
+  "repository": "https://github.com/heroku/node-js-sample",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "addons": [
+    "redistogo:nano"
+  ]
+}
